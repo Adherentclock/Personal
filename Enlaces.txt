@@ -1,0 +1,17 @@
+Comparto los enlaces de cada uno de los ejercicios, sin embargo, una posibilidad es que no se puedan abrir, pero para cualquier aclaración, los podemos revisar en cualquier momento si es necesario.
+
+Ejercicio 1. Sin enlaces
+
+Ejercicio 2. 
+https://make.powerautomate.com/environments/Default-f94bf4d9-8097-4794-adf6-a5466ca28563/flows/3f15b48a-5b42-4e54-86f8-5190f4eb8ee6/details 
+
+Ejercicio 3. 
+https://apps.powerapps.com/play/e/5e13086d-8a59-e322-a6a4-e388c184f007/a/b4a4e099-a379-4770-98d0-3a06b3874086?tenantId=f94bf4d9-8097-4794-adf6-a5466ca28563&sourcetime=1736737075412
+
+Ejercicio 4. 
+https://copilotstudio.microsoft.com/environments/Default-820eeaae-7f20-4d9a-852a-fff8bd99e3f8/bots/a52375da-20d1-ef11-8ee9-00224804cf56/overview
+
+Flow: https://make.powerautomate.com/environments/Default-820eeaae-7f20-4d9a-852a-fff8bd99e3f8/solutions/~preferred/flows/62ad59e5-a8fc-d26a-baa2-59bd804f16b8/details
+
+Ejercicio 5.
+https://documentintelligence.ai.azure.com/studio/custommodel/projects/11fe576f-4f5f-4a48-8d00-ff6f83a372d6/models?tenantid=f94bf4d9-8097-4794-adf6-a5466ca28563
